@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Andorid ,DSA**
 
-- 📫 How to reach me **Utkarshdubey0242@gmial.com**
+- 📫 How to reach me **Utkarshdubey0242@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
