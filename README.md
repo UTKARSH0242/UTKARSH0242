@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/utkarsh0242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh0242" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/utkarshdubey0242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/S Digital/hackerrank.svg" alt="utkarshdubey0242" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/utkarshdubey0242" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="utkarshdubey0242" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/utkarshdubey0242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshdubey0242" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@utkarshdubey0242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utkarshdubey0242" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/utkarshdubey0242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarshdubey0242" height="30" width="40" /></a>
@@ -59,7 +59,7 @@
 <p align="left">
   🥇 Solved 500+ problems on <b>LeetCode</b> and <b>HackerRank</b>.<br/>
   🚀 Contributed to open-source <b>Android</b> and <b>Spring Boot</b> projects.<br/>
-  🌟 Earned multiple badges on <a href="https://holopin.io/@utkarsh0242" target="_blank"><b>Holopin</b></a>.
+  🌟 Earned multiple badges on <a b href="https://holopin.io/@utkarsh0242" target="_blank"><b>Holopin</b></a>.
 </p>
 
 <h3 align="left">Featured Projects:</h3>
