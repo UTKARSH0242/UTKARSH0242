@@ -45,12 +45,12 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh0242&show_icons=true&locale=en&layout=compact&theme=radical" alt="utkarsh0242" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarsh0242&show_icons=true&locale=en&theme=radical" alt="utkarsh0242" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh0242&theme=radical" alt="utkarsh0242" />
 </p>
